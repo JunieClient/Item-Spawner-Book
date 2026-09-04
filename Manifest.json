@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Item Spawner Book Add-on",
+    "description": "An achievement-friendly item spawner book UI.",
+    "uuid": "e3f89a2b-14c7-4836-92bf-7489a2b14c71",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Scripting Module",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "7c4b2e1a-98f3-4215-83de-35489f3e12a4",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.12.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.2.0"
+    }
+  ]
+}
