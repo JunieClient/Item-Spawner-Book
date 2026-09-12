@@ -12,7 +12,6 @@ Just toggle Beta API on and enjoy, No cheats needed!
 
 Optimized & Performant: advanced registry caching so the UI loads instantly without causing frame drops or server lag.
 
-🏆 100% Achievement Friendly: Play the way you want—test items and build freely while keeping your world progress fully tracked.
 
 Smart Search UI: Find any block or item in seconds.
 
